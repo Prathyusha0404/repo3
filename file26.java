@@ -3,4 +3,5 @@ public class Main {
     String name = "John";
     System.out.println("Hello " + name);
   }
-}
+SG}
+//Program to print Hello with name
